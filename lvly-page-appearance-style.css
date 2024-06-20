@@ -1,0 +1,13 @@
+.lvly-text-block{
+    color: white;
+    font-family: "Manrope", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 26px;
+    display: flex;
+    justify-content: start;
+    text-align: left;
+    padding: 0px 830px 90px 80px;
+    margin-top: -500px;
+    line-height: 2;
+}

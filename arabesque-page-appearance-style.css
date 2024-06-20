@@ -1,0 +1,28 @@
+.foto-collage-style5{
+    margin: -380px 0px 0px 690px;
+}
+.arabesque-text-block{
+    color: white;
+    font-family: "Manrope", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 26px;
+    display: flex;
+    justify-content: start;
+    text-align: left;
+    padding: 0px 800px 90px 80px;
+    line-height: 2;
+}
+.block-section7{
+    height: 1000px;
+    width: 1376px;
+    background-color: #0C0C0C;
+    margin: 150px 100px 0px 100px;
+}
+.btn-download-musik5{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1110px;
+    margin-top: -1060px;
+    gap: 149px;
+}

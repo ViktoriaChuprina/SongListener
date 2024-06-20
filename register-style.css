@@ -1,0 +1,69 @@
+.body-musik-page4{
+    width: 1576px;
+    height: 1850px;
+    background-color: black;
+}
+.gradient-block{
+    width: 433px;
+    height: 118px;
+    border-bottom-right-radius: 40px;
+    background-image: linear-gradient(to right,  #FF3131, #FFBF00);
+}
+.block-form-style{
+    width: 800px;
+    height: 950px;
+    background-image: linear-gradient(to right,  #FF3131, #FFBF00);
+    border-radius: 30px;
+    margin: 5% 0% 0% 25%;
+}
+.class-input-block{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.input-style-register{
+    width: 633px;
+    height: 51px;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    margin: 5% 0% 0% 10%;
+}
+.radio-value-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3%;
+}
+.radio-style{
+    color: white;
+    font-family: "Manrope", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 26px;
+}
+.submit-btn-style1{
+    display: flex;
+    justify-content: center;
+    margin-top: 142px;
+}
+.submit-style{
+    width: 272px;
+    height: 57px;
+    background-color: white;
+    border-radius: 33px;
+    font-size: 26px;
+}
+.submit-style:hover{
+    background-color: rgb(71, 71, 71);
+    color: white;
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+.gradient-block1{
+    width: 433px;
+    height: 118px;
+    border-top-left-radius: 40px;
+    background-image: linear-gradient(to right,  #FF3131, #FFBF00);
+    margin: 20% 0% 0% 73%;
+}
